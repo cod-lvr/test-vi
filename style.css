@@ -9,6 +9,7 @@ html {
   font-family: monospace;
   scroll-behavior: smooth;
 }
+/* standard */
 /* custom */
 .btn {
   padding: 1rem;
@@ -20,6 +21,7 @@ html {
   text-transform: capitalize;
   font-weight: 600;
   display: block;
+  cursor: pointer;
 }
 .btn:hover,
 .btn:focus {
